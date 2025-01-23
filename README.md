@@ -1,3 +1,4 @@
+# Simple Retrieval Augmented Classification for Radiology
 ## Features
 
 - Support for multiple medical imaging datasets (brain tumor, coronahack, kits23)
